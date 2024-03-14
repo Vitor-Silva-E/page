@@ -8,16 +8,6 @@
     position: relative;
 }
 
-body{
-    display: flex;
-    justify-content: center;
-
-    align-items: center;
-    min-height: 100vh;
-    background: url("./assets/images/back.jpg") no-repeat;
-    background-size: cover;
-    background-position: center;
-}
 .hm{
     list-style: none;
     bottom: 20.5rem;
